@@ -1,1 +1,1 @@
-sample React Redux tto-Do List App
+sample React Redux to-Do List App
